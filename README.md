@@ -6,9 +6,12 @@
   </p>
 
 <h2> BUILD A WEBPAGE </h2>
+    
+    <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/57109853_10100157390117450_8198744448079757312_n.jpg?_nc_cat=102&_nc_oc=AQmlChRGiaSuArg99wsuSaYC0x23feR46Qt_qit2DPxCiliw102oVBmJqGwe7UdiwHE&_nc_ht=scontent-lax3-1.xx&oh=2ac40af4096029f403aa38aa063aed00&oe=5DDE8C59" alt="Tim, Matt, Drew, Doug, & Stu sitting at the table at macys" width="500">
 <h3> "familytime.com"</h3>
 <p>  A place where you can coordinate with your family. A combination of facebook, dropbox, and calendar. <br>
 Share Photos <br>
+    
     <h3> Features </h3> 
 <ul>
     <li> Vacation Section --> To share ideas for Vacations </li>
