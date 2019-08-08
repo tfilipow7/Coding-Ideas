@@ -1,3 +1,6 @@
+<DOCTYPE html>
+  <html>
+<p>
 # Coding-Ideas
 Your first list of ideas for coding projects. Perhaps some of the projects as well. 
 
@@ -20,5 +23,7 @@ BUILD A GAME
 For the my nieces and nephews
 "Rescue The Animal"
 "Eliminate the Ism's"
+</p>
 
+</html>
 
