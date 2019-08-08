@@ -1,9 +1,4 @@
 <DOCTYPE html>
-  <html>
-    <head>
-      
-    </head>
-    
     <body>
 <h1> Coding-Ideas </h1>
 <p>
@@ -30,5 +25,6 @@ Options to link your Family to other Families. Families can choose what they sha
   </p>
 
   </body> 
+  
 </html>
 
